@@ -103,7 +103,9 @@ export default function Defiswap() {
   }
 
   async function listFromTokens() {
-    let response = await fetch("http://localhost:3000/api/tokens");
+    let response = await fetch(
+      "https://defi-swap-interface-0x-protocol-opnl.vercel.app/api/tokens"
+    );
     let tokenListJSON = await response.json();
     var tokens = tokenListJSON.tokens;
     let parent = document.getElementById("token_list");
@@ -157,7 +159,9 @@ export default function Defiswap() {
   }
 
   async function listToTokens() {
-    let response = await fetch("http://localhost:3000/api/tokens");
+    let response = await fetch(
+      "https://defi-swap-interface-0x-protocol-opnl.vercel.app/api/tokens"
+    );
     let tokenListJSON = await response.json();
     var tokens = tokenListJSON.tokens;
     let parent = document.getElementById("token_list");
