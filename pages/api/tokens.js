@@ -8,7 +8,7 @@ export default function handler(req, res) {
         symbol: "UNI",
         decimals: 18,
         logoURI:
-          "https://defi-swap-interface-0x-protocol-opnl.vercel.app/tokenimg/uni.png",
+          "https://defi-swap-interface-0x-protocol.vercel.app/tokenimg/uni.png",
       },
       {
         chainId: 1,
@@ -17,7 +17,7 @@ export default function handler(req, res) {
         symbol: "USDT",
         decimals: 6,
         logoURI:
-          "https://defi-swap-interface-0x-protocol-opnl.vercel.app/tokenimg/usdt.png",
+          "https://defi-swap-interface-0x-protocol.vercel.app/tokenimg/usdt.png",
       },
       {
         chainId: 1,
@@ -26,7 +26,7 @@ export default function handler(req, res) {
         symbol: "USDC",
         decimals: 6,
         logoURI:
-          "https://defi-swap-interface-0x-protocol-opnl.vercel.app/tokenimg/usdc.png",
+          "https://defi-swap-interface-0x-protocol.vercel.app/tokenimg/usdc.png",
       },
       {
         chainId: 1,
@@ -35,7 +35,7 @@ export default function handler(req, res) {
         symbol: "LINK",
         decimals: 18,
         logoURI:
-          "https://defi-swap-interface-0x-protocol-opnl.vercel.app/tokenimg/link.png",
+          "https://defi-swap-interface-0x-protocol.vercel.app/tokenimg/link.png",
       },
       {
         chainId: 1,
@@ -44,7 +44,7 @@ export default function handler(req, res) {
         symbol: "MATIC",
         decimals: 18,
         logoURI:
-          "https://defi-swap-interface-0x-protocol-opnl.vercel.app/tokenimg/matic.webp",
+          "https://defi-swap-interface-0x-protocol.vercel.app/tokenimg/matic.webp",
       },
       {
         chainId: 1,
@@ -53,7 +53,7 @@ export default function handler(req, res) {
         symbol: "ZRX",
         decimals: 18,
         logoURI:
-          "https://defi-swap-interface-0x-protocol-opnl.vercel.app/tokenimg/zrx.png",
+          "https://defi-swap-interface-0x-protocol.vercel.app/tokenimg/zrx.png",
       },
       {
         chainId: 1,
@@ -62,7 +62,7 @@ export default function handler(req, res) {
         symbol: "SUSHI",
         decimals: 18,
         logoURI:
-          "https://defi-swap-interface-0x-protocol-opnl.vercel.app/tokenimg/sushi.webp",
+          "https://defi-swap-interface-0x-protocol.vercel.app/tokenimg/sushi.webp",
       },
       {
         chainId: 1,
@@ -71,7 +71,7 @@ export default function handler(req, res) {
         symbol: "AAVE",
         decimals: 18,
         logoURI:
-          "https://defi-swap-interface-0x-protocol-opnl.vercel.app/tokenimg/aave.webp",
+          "https://defi-swap-interface-0x-protocol.vercel.app/tokenimg/aave.webp",
       },
       {
         chainId: 1,
@@ -80,7 +80,7 @@ export default function handler(req, res) {
         symbol: "GRT",
         decimals: 18,
         logoURI:
-          "https://defi-swap-interface-0x-protocol-opnl.vercel.app/tokenimg/grt.webp",
+          "https://defi-swap-interface-0x-protocol.vercel.app/tokenimg/grt.webp",
       },
       {
         chainId: 1,
@@ -89,7 +89,7 @@ export default function handler(req, res) {
         symbol: "1INCH",
         decimals: 18,
         logoURI:
-          "https://defi-swap-interface-0x-protocol-opnl.vercel.app/tokenimg/1inch.webp",
+          "https://defi-swap-interface-0x-protocol.vercel.app/tokenimg/1inch.webp",
       },
       {
         chainId: 1,
@@ -98,7 +98,7 @@ export default function handler(req, res) {
         symbol: "ACH",
         decimals: 8,
         logoURI:
-          "https://defi-swap-interface-0x-protocol-opnl.vercel.app/tokenimg/ach.webp",
+          "https://defi-swap-interface-0x-protocol.vercel.app/tokenimg/ach.webp",
       },
       {
         chainId: 1,
@@ -107,7 +107,7 @@ export default function handler(req, res) {
         symbol: "ANKR",
         decimals: 18,
         logoURI:
-          "https://defi-swap-interface-0x-protocol-opnl.vercel.app/tokenimg/ankr.webp",
+          "https://defi-swap-interface-0x-protocol.vercel.app/tokenimg/ankr.webp",
       },
       {
         chainId: 3,
@@ -116,7 +116,7 @@ export default function handler(req, res) {
         symbol: "N2DR",
         decimals: 18,
         logoURI:
-          "https://defi-swap-interface-0x-protocol-opnl.vercel.app/tokenimg/n2dr.png",
+          "https://defi-swap-interface-0x-protocol.vercel.app/tokenimg/n2dr.png",
       },
       {
         chainId: 3,
@@ -125,7 +125,7 @@ export default function handler(req, res) {
         symbol: "n2USD",
         decimals: 18,
         logoURI:
-          "https://defi-swap-interface-0x-protocol-opnl.vercel.app/tokenimg/usdt.png",
+          "https://defi-swap-interface-0x-protocol.vercel.app/tokenimg/usdt.png",
       },
       {
         chainId: 3,
@@ -134,7 +134,7 @@ export default function handler(req, res) {
         symbol: "WETH",
         decimals: 18,
         logoURI:
-          "https://defi-swap-interface-0x-protocol-opnl.vercel.app/tokenimg/eth.png",
+          "https://defi-swap-interface-0x-protocol.vercel.app/tokenimg/eth.png",
       },
       {
         chainId: 3,
@@ -143,7 +143,7 @@ export default function handler(req, res) {
         symbol: "RUSDC",
         decimals: 6,
         logoURI:
-          "https://defi-swap-interface-0x-protocol-opnl.vercel.app/tokenimg/usdc.png",
+          "https://defi-swap-interface-0x-protocol.vercel.app/tokenimg/usdc.png",
       },
       {
         chainId: 3,
@@ -152,7 +152,7 @@ export default function handler(req, res) {
         symbol: "RUNI",
         decimals: 18,
         logoURI:
-          "https://defi-swap-interface-0x-protocol-opnl.vercel.app/tokenimg/uni.png",
+          "https://defi-swap-interface-0x-protocol.vercel.app/tokenimg/uni.png",
       },
       {
         chainId: 3,
@@ -161,7 +161,7 @@ export default function handler(req, res) {
         symbol: "RDAI",
         decimals: 18,
         logoURI:
-          "https://defi-swap-interface-0x-protocol-opnl.vercel.app/tokenimg/dai.svg",
+          "https://defi-swap-interface-0x-protocol.vercel.app/tokenimg/dai.svg",
       },
       {
         chainId: 5,
@@ -170,7 +170,7 @@ export default function handler(req, res) {
         symbol: "GoETH",
         decimals: 18,
         logoURI:
-          "https://defi-swap-interface-0x-protocol-opnl.vercel.app/tokenimg/eth.png",
+          "https://defi-swap-interface-0x-protocol.vercel.app/tokenimg/eth.png",
       },
       {
         chainId: 5,
@@ -179,7 +179,7 @@ export default function handler(req, res) {
         symbol: "GoDAI",
         decimals: 18,
         logoURI:
-          "https://defi-swap-interface-0x-protocol-opnl.vercel.app/tokenimg/dai.svg",
+          "https://defi-swap-interface-0x-protocol.vercel.app/tokenimg/dai.svg",
       },
       {
         chainId: 5,
@@ -188,7 +188,7 @@ export default function handler(req, res) {
         symbol: "GoUSDC",
         decimals: 6,
         logoURI:
-          "https://defi-swap-interface-0x-protocol-opnl.vercel.app/tokenimg/usdc.png",
+          "https://defi-swap-interface-0x-protocol.vercel.app/tokenimg/usdc.png",
       },
     ],
   });
