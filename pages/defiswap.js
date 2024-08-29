@@ -215,7 +215,7 @@ export default function Defiswap() {
       `https://api.0x.org/swap/permit2/quote?${priceParams}`,
       {
         headers: {
-          "0x-api-key": "2bf65966-8b1b-44aa-97df-2fbed852c281",
+          "0x-api-key": process.env.NEXT_PUBLIC_ZEROEX_API_KEY,
         },
       }
     );
@@ -223,7 +223,7 @@ export default function Defiswap() {
       `https://api.0x.org/swap/permit2/price?${priceParams}`,
       {
         headers: {
-          "0x-api-key": "2bf65966-8b1b-44aa-97df-2fbed852c281",
+          "0x-api-key": process.env.NEXT_PUBLIC_ZEROEX_API_KEY,
         },
       }
     );
@@ -269,7 +269,7 @@ export default function Defiswap() {
       `https://api.0x.org/swap/permit2/quote?${priceParams}`,
       {
         headers: {
-          "0x-api-key": "2bf65966-8b1b-44aa-97df-2fbed852c281",
+          "0x-api-key": process.env.NEXT_PUBLIC_ZEROEX_API_KEY,
         },
       }
     );

@@ -1,0 +1,14 @@
+{
+  "..\\node_modules\\alchemy-sdk\\dist\\esm\\index-bb84a433.js -> ./alchemy-provider-c13827af.js": {
+    "id": "..\\node_modules\\alchemy-sdk\\dist\\esm\\index-bb84a433.js -> ./alchemy-provider-c13827af.js",
+    "files": [
+      "static/chunks/node_modules_alchemy-sdk_dist_esm_alchemy-provider-c13827af_js.js"
+    ]
+  },
+  "..\\node_modules\\alchemy-sdk\\dist\\esm\\index-bb84a433.js -> ./alchemy-websocket-provider-76d152e7.js": {
+    "id": "..\\node_modules\\alchemy-sdk\\dist\\esm\\index-bb84a433.js -> ./alchemy-websocket-provider-76d152e7.js",
+    "files": [
+      "static/chunks/node_modules_alchemy-sdk_dist_esm_alchemy-websocket-provider-76d152e7_js.js"
+    ]
+  }
+}
